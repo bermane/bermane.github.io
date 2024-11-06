@@ -28,3 +28,7 @@ With a background in mathematics and a passion for leveraging data to address co
 
 ### Applying Social Network Analysis to Understand Contraceptive Choices and Decisions of Young Women in Uttar Pradesh and Bihar, India
 Over this two year project, I worked as a data science consultant for Braintree Global Health. As part of a Gates Foundation grant we supported a New Delhi-based team from the International Center for Research of Women to better understand the key people influencing maternal and newborn health decision-making in rural India. I spearheaded the design of a social network analysis (SNA) survey that included quantitative and qualitative questions of which we received 1,162 responses. Beyond calculating a series of descriptive statistics related to SNA, I developed a series of logisic regression models to better understand the likelihood of women using modern family planning methods. I also delivered SNA visualizations to better understand network structure.
+
+![An Example Network Plot](assets/block22.png)
+
+*Figure 1: An example network plot showing the social networks of two young and low-parity women, including the types of relationships they have to others in their village/region and the strength of their ties.*
