@@ -31,4 +31,4 @@ Over this two year project, I worked as a data science consultant for Braintree 
 
 ![An Example Network Plot](assets/block22.png)
 
-*Figure 1: An example network plot showing the social networks of two young and low-parity women, including the types of relationships they have to others in their village/region and the strength of their ties.*
+*Figure 1: An example network plot showing the social networks of two young and low-parity women, including the types of relationships they have to others in their village/region and the strength of their ties. Each woman (“Ego") was asked to identify their five closest relationships (“Alter"). The Alters were subsequently interviewed and asked to identify their five closest relationships as well (“AAlter”), thus constructing a web of direct and indirect ties to the Ego.*
