@@ -24,4 +24,6 @@ With a background in mathematics and a passion for leveraging data to address co
 
 ### Historical Trend Analysis of Phenology Dates Across the Western US from 1982 to 2016
 
-etc...
+### Daily Estimates of Landsat Fractional Snow Covered Area Driven by MODIS and Dynamic Time Warping
+
+### Applying Social Network Analysis to Understand Contraceptive Choices and Decisions of Young Women in Uttar Pradesh and Bihar, India
